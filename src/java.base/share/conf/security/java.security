@@ -111,7 +111,6 @@ security.provider.tbd=SunMSCAPI
 security.provider.tbd=Apple
 #endif
 security.provider.tbd=SunPKCS11
-security.provider.tbd=OpenJCEPlus
 
 #
 # Java Restricted Security Mode
